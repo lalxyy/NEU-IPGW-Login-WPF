@@ -1,0 +1,17 @@
+C:\NEUIPGW_Loginer\NEUIPGW_Loginer\NEUIPGW_Loginer\bin\Debug\NEUIPGW_Loginer.exe.config
+C:\NEUIPGW_Loginer\NEUIPGW_Loginer\NEUIPGW_Loginer\obj\Debug\NEUIPGW_Loginer.csprojResolveAssemblyReference.cache
+C:\NEUIPGW_Loginer\NEUIPGW_Loginer\NEUIPGW_Loginer\obj\Debug\MainWindow.baml
+C:\NEUIPGW_Loginer\NEUIPGW_Loginer\NEUIPGW_Loginer\obj\Debug\MainWindow.g.cs
+C:\NEUIPGW_Loginer\NEUIPGW_Loginer\NEUIPGW_Loginer\obj\Debug\App.g.cs
+C:\NEUIPGW_Loginer\NEUIPGW_Loginer\NEUIPGW_Loginer\obj\Debug\NEUIPGW_Loginer_MarkupCompile.cache
+C:\NEUIPGW_Loginer\NEUIPGW_Loginer\NEUIPGW_Loginer\obj\Debug\NEUIPGW_Loginer.g.resources
+C:\NEUIPGW_Loginer\NEUIPGW_Loginer\NEUIPGW_Loginer\obj\Debug\NEUIPGW_Loginer.Properties.Resources.resources
+C:\NEUIPGW_Loginer\NEUIPGW_Loginer\NEUIPGW_Loginer\obj\Debug\NEUIPGW_Loginer.csproj.GenerateResource.Cache
+C:\NEUIPGW_Loginer\NEUIPGW_Loginer\NEUIPGW_Loginer\bin\Debug\NEUIPGW_Loginer.exe
+C:\NEUIPGW_Loginer\NEUIPGW_Loginer\NEUIPGW_Loginer\bin\Debug\NEUIPGW_Loginer.pdb
+C:\NEUIPGW_Loginer\NEUIPGW_Loginer\NEUIPGW_Loginer\obj\Debug\NEUIPGW_Loginer.exe
+C:\NEUIPGW_Loginer\NEUIPGW_Loginer\NEUIPGW_Loginer\obj\Debug\NEUIPGW_Loginer.pdb
+C:\NEUIPGW_Loginer\NEUIPGW_Loginer\NEUIPGW_Loginer\bin\Debug\NEUIPGW_Loginer.exe.manifest
+C:\NEUIPGW_Loginer\NEUIPGW_Loginer\NEUIPGW_Loginer\bin\Debug\NEUIPGW_Loginer.application
+C:\NEUIPGW_Loginer\NEUIPGW_Loginer\NEUIPGW_Loginer\obj\Debug\NEUIPGW_Loginer.exe.manifest
+C:\NEUIPGW_Loginer\NEUIPGW_Loginer\NEUIPGW_Loginer\obj\Debug\NEUIPGW_Loginer.application
